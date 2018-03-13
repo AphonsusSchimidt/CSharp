@@ -1,0 +1,14 @@
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\VideoTool.exe.config
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\VideoTool.exe
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\VideoTool.pdb
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\obj\Debug\VideoTool.csprojResolveAssemblyReference.cache
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\obj\Debug\VideoTool.Form1.resources
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\obj\Debug\VideoTool.Properties.Resources.resources
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\obj\Debug\VideoTool.csproj.GenerateResource.Cache
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\obj\Debug\VideoTool.exe
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\obj\Debug\VideoTool.pdb
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\Geckofx-Core.dll
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\Geckofx-Winforms.dll
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\HtmlAgilityPack.dll
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\HtmlAgilityPack.pdb
+D:\_Document\Code\C#\Console Application\VideoTool\VideoTool\bin\Debug\HtmlAgilityPack.xml

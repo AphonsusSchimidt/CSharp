@@ -1,0 +1,32 @@
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.Form1.resources
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.Form2.resources
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.Properties.Resources.resources
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.csproj.GenerateResource.Cache
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.exe
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.pdb
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\RegTinChi.exe.config
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\RegTinChi.exe
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\RegTinChi.pdb
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\Geckofx-Core.dll
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\Geckofx-Winforms.dll
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.csprojResolveAssemblyReference.cache
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\RegTinChi\RegTinChi\obj\Debug\RegTinChi.web3.resources
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\RegTinChi.exe.config
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.exe
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.pdb
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\RegTinChi.exe
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\RegTinChi.pdb
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\Geckofx-Core.dll
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\Geckofx-Winforms.dll
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\HtmlAgilityPack.dll
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\HtmlAgilityPack.pdb
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\bin\Debug\HtmlAgilityPack.xml
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.Form1.resources
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.Form2.resources
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.Properties.Resources.resources
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.web3.resources
+D:\_Tài Liệu\Code\C#\RegTinChi\RegTinChi\obj\Debug\RegTinChi.csproj.GenerateResource.Cache

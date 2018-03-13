@@ -1,0 +1,11 @@
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\bin\Debug\DangKyHoc-MTA.exe.config
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\bin\Debug\DangKyHoc-MTA.exe
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\bin\Debug\DangKyHoc-MTA.pdb
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\bin\Debug\WebDriver.dll
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\bin\Debug\WebDriver.xml
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\obj\Debug\DangKyHoc-MTA.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\obj\Debug\DangKyHoc_MTA.Form1.resources
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\obj\Debug\DangKyHoc_MTA.Properties.Resources.resources
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\obj\Debug\DangKyHoc-MTA.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\obj\Debug\DangKyHoc-MTA.exe
+D:\_Document\_Code\C#\DangKyHoc-MTA\DangKyHoc-MTA\obj\Debug\DangKyHoc-MTA.pdb

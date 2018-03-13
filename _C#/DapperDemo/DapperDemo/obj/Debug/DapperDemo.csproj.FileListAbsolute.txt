@@ -1,0 +1,12 @@
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe.config
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\bin\Debug\DapperDemo.pdb
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\bin\Debug\Dapper.dll
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\bin\Debug\Dapper.xml
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\obj\Debug\DapperDemo.Form1.resources
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\obj\Debug\DapperDemo.Properties.Resources.resources
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\obj\Debug\DapperDemo.exe
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\obj\Debug\DapperDemo.pdb
+D:\_Document\_Code\C#\_C#\DapperDemo\DapperDemo\obj\Debug\DapperDemo.frmHocSinh.resources

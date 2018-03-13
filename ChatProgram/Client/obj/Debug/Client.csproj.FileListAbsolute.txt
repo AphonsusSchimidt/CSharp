@@ -1,0 +1,22 @@
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\bin\Debug\Client.exe.config
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\bin\Debug\Client.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\bin\Debug\Client.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\bin\Debug\myLibrary1.dll
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\bin\Debug\myLibrary1.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\obj\Debug\Client.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\obj\Debug\Client.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Client\obj\Debug\Client.frmClient.resources
+D:\_Document\_Code\C#\ChatProgram\Client\bin\Debug\Client.exe.config
+D:\_Document\_Code\C#\ChatProgram\Client\bin\Debug\Client.exe
+D:\_Document\_Code\C#\ChatProgram\Client\bin\Debug\Client.pdb
+D:\_Document\_Code\C#\ChatProgram\Client\bin\Debug\myLibrary1.dll
+D:\_Document\_Code\C#\ChatProgram\Client\bin\Debug\myLibrary1.pdb
+D:\_Document\_Code\C#\ChatProgram\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\ChatProgram\Client\obj\Debug\Client.frmClient.resources
+D:\_Document\_Code\C#\ChatProgram\Client\obj\Debug\Client.Properties.Resources.resources
+D:\_Document\_Code\C#\ChatProgram\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\ChatProgram\Client\obj\Debug\Client.exe
+D:\_Document\_Code\C#\ChatProgram\Client\obj\Debug\Client.pdb

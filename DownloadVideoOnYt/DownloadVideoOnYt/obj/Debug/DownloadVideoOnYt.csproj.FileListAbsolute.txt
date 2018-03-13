@@ -1,0 +1,15 @@
+c:\users\sunfl\documents\visual studio 2015\Projects\DownloadVideoOnYt\DownloadVideoOnYt\bin\Debug\DownloadVideoOnYt.exe.config
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.csprojResolveAssemblyReference.cache
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.Form1.resources
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.Properties.Resources.resources
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.csproj.GenerateResource.Cache
+D:\_Document\Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.csprojResolveAssemblyReference.cache
+D:\_Document\Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\GetLinkYoutube.Form1.resources
+D:\_Document\Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.Properties.Resources.resources
+D:\_Document\Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.csproj.GenerateResource.Cache
+D:\_Document\Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.Form1.resources
+D:\_Document\_Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\bin\Debug\DownloadVideoOnYt.exe.config
+D:\_Document\_Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.Form1.resources
+D:\_Document\_Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.Properties.Resources.resources
+D:\_Document\_Code\C#\DownloadVideoOnYt\DownloadVideoOnYt\obj\Debug\DownloadVideoOnYt.csproj.GenerateResource.Cache

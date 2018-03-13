@@ -1,0 +1,91 @@
+﻿@{
+    ViewBag.Title = "ViewData";
+}
+
+@using DataReaderMVC.Controllers
+@using DataReaderMVC.Models
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Data reader</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="SciSecPic">
+                <i class="fa fa-fw fa-picture-o"></i>
+                <label>
+                    <span>Click to browse your picture</span>
+                    <input type="file" title='Click to add Files' style="display:none;">
+                </label>
+
+                <div class="progress" style=" display:none;">
+                    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+                        0%
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var readPic;
+
+        $(".SciSecPic").each(function () {
+            var self = $(this);
+            self.dmUploader({
+                //url: "/Something/ImageSaver",
+                url: "http://posttestserver.com/post.php?dir=ali",
+                dataType: "json",
+                allowedTypes: "image/*",
+                //extraData: {
+                //Name: self.data("name"),
+                //Id: ~~self.data("id")
+                //},
+                onInit: function () {
+
+                },
+                onNewFile: function (id, file) {
+
+                    // showing progressbar
+                    $(this).find(".progress").show(200);
+
+                    /* preparing image for preview */
+                    if (typeof FileReader !== "undefined") {
+
+                        var reader = new FileReader();
+                        reader.onload = function (e) {
+                            readPic = e.target.result;
+                        }
+
+                        reader.readAsDataURL(file);
+                    };
+
+                },
+                onUploadProgress: function (id, percent) {
+                    $(this).find(".progress-bar").width(percent + "%").attr("aria-valuenow", percent).text(percent + "%");
+                },
+                onComplete: function () {
+
+                    var thisEl = $(this);
+
+                    addPic(thisEl, readPic);
+
+                    // to fadeout and reset the progress bar at the end
+                    setTimeout(function () {
+                        thisEl.find(".progress").hide(200, function () {
+                            thisEl.find(".progress-bar").width("0%").attr("aria-valuenow", 0).text("0%");
+                        })
+                    }, 300);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+

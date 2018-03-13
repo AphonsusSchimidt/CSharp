@@ -1,0 +1,12 @@
+G:\laptrinh\C#\EncyptDecyptTripleDES\EncyptDecyptTripleDES\bin\Debug\EncyptDecyptTripleDES.exe.config
+G:\laptrinh\C#\EncyptDecyptTripleDES\EncyptDecyptTripleDES\obj\Debug\EncyptDecyptTripleDES.csprojResolveAssemblyReference.cache
+G:\laptrinh\C#\EncyptDecyptTripleDES\EncyptDecyptTripleDES\bin\Debug\EncyptDecyptTripleDES.exe
+G:\laptrinh\C#\EncyptDecyptTripleDES\EncyptDecyptTripleDES\bin\Debug\EncyptDecyptTripleDES.pdb
+G:\laptrinh\C#\EncyptDecyptTripleDES\EncyptDecyptTripleDES\obj\Debug\EncyptDecyptTripleDES.exe
+G:\laptrinh\C#\EncyptDecyptTripleDES\EncyptDecyptTripleDES\obj\Debug\EncyptDecyptTripleDES.pdb
+C:\Users\PhucND\Downloads\Compressed\EncyptDecyptTripleDES-lêminhthành.vn_\EncyptDecyptTripleDES\bin\Debug\EncyptDecyptTripleDES.exe.config
+C:\Users\PhucND\Downloads\Compressed\EncyptDecyptTripleDES-lêminhthành.vn_\EncyptDecyptTripleDES\bin\Debug\EncyptDecyptTripleDES.exe
+C:\Users\PhucND\Downloads\Compressed\EncyptDecyptTripleDES-lêminhthành.vn_\EncyptDecyptTripleDES\bin\Debug\EncyptDecyptTripleDES.pdb
+C:\Users\PhucND\Downloads\Compressed\EncyptDecyptTripleDES-lêminhthành.vn_\EncyptDecyptTripleDES\obj\Debug\EncyptDecyptTripleDES.csprojResolveAssemblyReference.cache
+C:\Users\PhucND\Downloads\Compressed\EncyptDecyptTripleDES-lêminhthành.vn_\EncyptDecyptTripleDES\obj\Debug\EncyptDecyptTripleDES.exe
+C:\Users\PhucND\Downloads\Compressed\EncyptDecyptTripleDES-lêminhthành.vn_\EncyptDecyptTripleDES\obj\Debug\EncyptDecyptTripleDES.pdb

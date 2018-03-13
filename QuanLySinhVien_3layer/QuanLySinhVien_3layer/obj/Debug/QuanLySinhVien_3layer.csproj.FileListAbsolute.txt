@@ -1,0 +1,23 @@
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\bin\Debug\QuanLySinhVien_3layer.exe.config
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\bin\Debug\QuanLySinhVien_3layer.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\bin\Debug\QuanLySinhVien_3layer.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.csprojResolveAssemblyReference.cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.frmLogin.resources
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.frmMain.resources
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.Properties.Resources.resources
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.csproj.GenerateResource.Cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.GUI.frmDanhMucMH.resources
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\bin\Debug\QuanLySinhVien_3layer.exe.config
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\bin\Debug\QuanLySinhVien_3layer.exe
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\bin\Debug\QuanLySinhVien_3layer.pdb
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.View.frmMain.resources
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.View.frmDanhMucMH.resources
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.View.frmLogin.resources
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.Properties.Resources.resources
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.View.LoadDataBase.resources
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.exe
+D:\_Document\_Code\C#\QuanLySinhVien_3layer\QuanLySinhVien_3layer\obj\Debug\QuanLySinhVien_3layer.pdb

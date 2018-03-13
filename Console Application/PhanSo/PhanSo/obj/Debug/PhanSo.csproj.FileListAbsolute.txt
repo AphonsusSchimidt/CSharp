@@ -1,0 +1,6 @@
+D:\_Document\Code\C#\Console Application\PhanSo\PhanSo\bin\Debug\PhanSo.exe.config
+D:\_Document\Code\C#\Console Application\PhanSo\PhanSo\bin\Debug\PhanSo.exe
+D:\_Document\Code\C#\Console Application\PhanSo\PhanSo\bin\Debug\PhanSo.pdb
+D:\_Document\Code\C#\Console Application\PhanSo\PhanSo\obj\Debug\PhanSo.csprojResolveAssemblyReference.cache
+D:\_Document\Code\C#\Console Application\PhanSo\PhanSo\obj\Debug\PhanSo.exe
+D:\_Document\Code\C#\Console Application\PhanSo\PhanSo\obj\Debug\PhanSo.pdb

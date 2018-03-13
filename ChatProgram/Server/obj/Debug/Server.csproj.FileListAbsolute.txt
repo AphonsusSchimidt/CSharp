@@ -1,0 +1,22 @@
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\bin\Debug\Server.exe.config
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\bin\Debug\Server.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\bin\Debug\Server.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\bin\Debug\myLibrary1.dll
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\bin\Debug\myLibrary1.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\obj\Debug\Server.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\obj\Debug\Server.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\Server\obj\Debug\Server.frmServer.resources
+D:\_Document\_Code\C#\ChatProgram\Server\bin\Debug\Server.exe.config
+D:\_Document\_Code\C#\ChatProgram\Server\bin\Debug\Server.exe
+D:\_Document\_Code\C#\ChatProgram\Server\bin\Debug\Server.pdb
+D:\_Document\_Code\C#\ChatProgram\Server\bin\Debug\myLibrary1.dll
+D:\_Document\_Code\C#\ChatProgram\Server\bin\Debug\myLibrary1.pdb
+D:\_Document\_Code\C#\ChatProgram\Server\obj\Debug\Server.frmServer.resources
+D:\_Document\_Code\C#\ChatProgram\Server\obj\Debug\Server.Properties.Resources.resources
+D:\_Document\_Code\C#\ChatProgram\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\ChatProgram\Server\obj\Debug\Server.exe
+D:\_Document\_Code\C#\ChatProgram\Server\obj\Debug\Server.pdb
+D:\_Document\_Code\C#\ChatProgram\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

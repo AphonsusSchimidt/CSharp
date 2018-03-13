@@ -1,0 +1,9 @@
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\bin\Debug\Baitap1.exe.config
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\bin\Debug\Baitap1.exe
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\bin\Debug\Baitap1.pdb
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\obj\Debug\Baitap1.csprojResolveAssemblyReference.cache
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\obj\Debug\Baitap1.frmMain.resources
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\obj\Debug\Baitap1.Properties.Resources.resources
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\obj\Debug\Baitap1.csproj.GenerateResource.Cache
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\obj\Debug\Baitap1.exe
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Baitap1\Baitap1\obj\Debug\Baitap1.pdb

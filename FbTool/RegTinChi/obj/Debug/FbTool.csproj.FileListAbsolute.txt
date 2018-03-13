@@ -1,0 +1,15 @@
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\RegTinChi.exe.config
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\RegTinChi.exe
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\RegTinChi.pdb
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\Geckofx-Core.dll
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\Geckofx-Winforms.dll
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\HtmlAgilityPack.dll
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\HtmlAgilityPack.pdb
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\bin\Debug\HtmlAgilityPack.xml
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\obj\Debug\FbTool.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\obj\Debug\RegTinChi.frmMain.resources
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\obj\Debug\RegTinChi.Properties.Resources.resources
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\obj\Debug\RegTinChi.web3.resources
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\obj\Debug\FbTool.csproj.GenerateResource.Cache
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\obj\Debug\RegTinChi.exe
+D:\_Tài Liệu\Code\C#\FbTool\RegTinChi\obj\Debug\RegTinChi.pdb

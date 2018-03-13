@@ -1,0 +1,20 @@
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\bin\Debug\IOweb.exe.config
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\bin\Debug\IOweb.exe
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\bin\Debug\IOweb.pdb
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\bin\Debug\itextsharp.dll
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\bin\Debug\itextsharp.xml
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\obj\Debug\IOweb.csprojResolveAssemblyReference.cache
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\obj\Debug\IOweb.Form1.resources
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\obj\Debug\IOweb.Properties.Resources.resources
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\obj\Debug\IOweb.csproj.GenerateResource.Cache
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\obj\Debug\IOweb.exe
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\IOweb\IOweb\obj\Debug\IOweb.pdb
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\bin\Debug\IOweb.exe.config
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\bin\Debug\IOweb.exe
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\bin\Debug\IOweb.pdb
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\obj\Debug\IOweb.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\obj\Debug\IOweb.Form1.resources
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\obj\Debug\IOweb.Properties.Resources.resources
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\obj\Debug\IOweb.csproj.GenerateResource.Cache
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\obj\Debug\IOweb.exe
+D:\_Tài Liệu\Code\C#\IOweb\IOweb\obj\Debug\IOweb.pdb

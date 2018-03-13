@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "Data reader";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Data reader</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    
+  
+</head>
+<body>
+
+    <div class="container">
+
+        <!--Loại File-->
+
+        <p>(select lists)</p>
+        <form>
+            <div class="form-group">
+                <label for="sel1">Select Type file read </label>
+                <select class="form-control" id="sel1">
+                    <option> Đọc Điểm PET(.pdf)</option>
+                    <option> Đọc Điểm Excecl (.xlsx)</option>
+                    <option> Đọc Điểm SQL </option>
+
+                </select>
+            </div>
+        </form>
+
+        <!--Các Rule-->
+        <h2> Rules </h2>
+        <p>Chose Rules </p>
+        <form>
+            <div class="checkbox">
+                <label><input type="checkbox" value="">String Aprering </label>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" value="">TypeData</label>
+            </div>
+            <div class="checkbox disabled">
+                <label><input type="checkbox" value="" disabled>Option 3</label>
+            </div>
+        </form>
+        <div class="row">
+            <!--Upload File-->
+            <div class="col-md-6">
+
+            </div>
+        </div>
+        <div class="row">
+            <!--Upload File-->
+            <div class="col-md-6">
+                @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <input id="fileupload" type="file" name="files[]" multiple>
+                    // <input type="file" name="FileUpload" id="fileupload" accept=" .pdf" />
+                    <input type="submit" name="Submit" id="Submit" value="Upload" />
+                }
+            </div>
+        </div>
+        <div class="row">
+            <br />
+            <div class="col-md-12">
+                <div id="progressbar"><div class="progress-label">Loading...</div></div>
+            </div>
+        </div>
+    </div>
+  
+    
+
+</body>
+</html>

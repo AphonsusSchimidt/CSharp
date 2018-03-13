@@ -1,0 +1,1 @@
+D:\_Document\_Code\C#\_C#\QLHocSinhTHPT\QLHocSinhTHPT\bin\Debug\QLHocSinhTHPT.exe.config

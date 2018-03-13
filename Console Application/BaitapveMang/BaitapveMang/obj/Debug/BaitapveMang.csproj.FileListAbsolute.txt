@@ -1,0 +1,6 @@
+D:\_Tài Liệu\Code\C#\Console Application\BaitapveMang\BaitapveMang\bin\Debug\BaitapveMang.exe.config
+D:\_Tài Liệu\Code\C#\Console Application\BaitapveMang\BaitapveMang\bin\Debug\BaitapveMang.exe
+D:\_Tài Liệu\Code\C#\Console Application\BaitapveMang\BaitapveMang\bin\Debug\BaitapveMang.pdb
+D:\_Tài Liệu\Code\C#\Console Application\BaitapveMang\BaitapveMang\obj\Debug\BaitapveMang.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\Console Application\BaitapveMang\BaitapveMang\obj\Debug\BaitapveMang.exe
+D:\_Tài Liệu\Code\C#\Console Application\BaitapveMang\BaitapveMang\obj\Debug\BaitapveMang.pdb

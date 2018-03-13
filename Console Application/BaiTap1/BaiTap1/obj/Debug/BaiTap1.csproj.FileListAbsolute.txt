@@ -1,0 +1,6 @@
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap1\BaiTap1\bin\Debug\BaiTap1.exe.config
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap1\BaiTap1\bin\Debug\BaiTap1.exe
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap1\BaiTap1\bin\Debug\BaiTap1.pdb
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap1\BaiTap1\obj\Debug\BaiTap1.exe
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap1\BaiTap1\obj\Debug\BaiTap1.pdb
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap1\BaiTap1\obj\Debug\BaiTap1.csprojResolveAssemblyReference.cache

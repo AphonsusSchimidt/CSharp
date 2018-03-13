@@ -1,0 +1,10 @@
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\bin\Debug\NgoDinhPhuc_15150178.exe.config
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\obj\Debug\NgoDinhPhuc_15150178.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\obj\Debug\NgoDinhPhuc_15150178.frmMain.resources
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\obj\Debug\NgoDinhPhuc_15150178.Frm_Main.resources
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\obj\Debug\NgoDinhPhuc_15150178.Properties.Resources.resources
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\obj\Debug\NgoDinhPhuc_15150178.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\bin\Debug\NgoDinhPhuc_15150178.exe
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\bin\Debug\NgoDinhPhuc_15150178.pdb
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\obj\Debug\NgoDinhPhuc_15150178.exe
+D:\_Document\_Code\C#\NgoDinhPhuc_15150178\NgoDinhPhuc_15150178\obj\Debug\NgoDinhPhuc_15150178.pdb

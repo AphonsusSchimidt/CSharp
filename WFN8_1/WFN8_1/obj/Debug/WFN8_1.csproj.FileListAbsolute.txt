@@ -1,0 +1,22 @@
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\bin\Debug\WFN8_1.exe.config
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\bin\Debug\WFN8_1.exe
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\bin\Debug\WFN8_1.pdb
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.csprojResolveAssemblyReference.cache
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Properties.Resources.resources
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.csproj.GenerateResource.Cache
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.exe
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.pdb
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Form1.resources
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Tinhtoan.resources
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Form2.resources
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\bin\Debug\WFN8_1.exe.config
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.exe
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.pdb
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\bin\Debug\WFN8_1.exe
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\bin\Debug\WFN8_1.pdb
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Form1.resources
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Form2.resources
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Properties.Resources.resources
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.Tinhtoan.resources
+D:\_Tài Liệu\Code\C#\WFN8_1\WFN8_1\obj\Debug\WFN8_1.csproj.GenerateResource.Cache

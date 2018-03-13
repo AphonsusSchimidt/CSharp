@@ -1,0 +1,11 @@
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\bin\Debug\BaiTap_SV.exe
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\bin\Debug\BaiTap_SV.pdb
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\obj\Debug\BaiTap_SV.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\obj\Debug\BaiTap_SV.exe
+D:\_Tài Liệu\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\obj\Debug\BaiTap_SV.pdb
+D:\_Document\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\bin\Debug\BaiTap_SV.exe.config
+D:\_Document\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\bin\Debug\BaiTap_SV.exe
+D:\_Document\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\bin\Debug\BaiTap_SV.pdb
+D:\_Document\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\obj\Debug\BaiTap_SV.csprojResolveAssemblyReference.cache
+D:\_Document\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\obj\Debug\BaiTap_SV.exe
+D:\_Document\Code\C#\Console Application\BaiTap_SV\BaiTap_SV\obj\Debug\BaiTap_SV.pdb

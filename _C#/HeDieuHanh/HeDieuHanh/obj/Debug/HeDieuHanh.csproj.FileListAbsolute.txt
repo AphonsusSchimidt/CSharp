@@ -1,0 +1,9 @@
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\bin\Debug\HeDieuHanh.exe.config
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\bin\Debug\HeDieuHanh.exe
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\bin\Debug\HeDieuHanh.pdb
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\obj\Debug\HeDieuHanh.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\obj\Debug\HeDieuHanh.Properties.Resources.resources
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\obj\Debug\HeDieuHanh.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\obj\Debug\HeDieuHanh.exe
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\obj\Debug\HeDieuHanh.pdb
+D:\_Document\_Code\C#\_C#\HeDieuHanh\HeDieuHanh\obj\Debug\HeDieuHanh.frmMain.resources

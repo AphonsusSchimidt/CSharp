@@ -1,0 +1,6 @@
+c:\users\phucbinz\documents\visual studio 2017\Projects\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe.config
+c:\users\phucbinz\documents\visual studio 2017\Projects\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\GiaiPTBac2\GiaiPTBac2\bin\Debug\GiaiPTBac2.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.csprojResolveAssemblyReference.cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.exe
+c:\users\phucbinz\documents\visual studio 2017\Projects\GiaiPTBac2\GiaiPTBac2\obj\Debug\GiaiPTBac2.pdb

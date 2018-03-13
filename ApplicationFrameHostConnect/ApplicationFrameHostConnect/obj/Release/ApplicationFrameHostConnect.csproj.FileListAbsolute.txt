@@ -1,0 +1,11 @@
+D:\_Tài Liệu\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\bin\Release\ApplicationFrameHostConnect.exe.config
+D:\_Tài Liệu\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\bin\Release\ApplicationFrameHostConnect.exe
+D:\_Tài Liệu\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\bin\Release\ApplicationFrameHostConnect.pdb
+D:\_Tài Liệu\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\obj\Release\ApplicationFrameHostConnect.exe
+D:\_Tài Liệu\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\obj\Release\ApplicationFrameHostConnect.pdb
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\bin\Release\ApplicationFrameHostConnect.exe.config
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\obj\Release\ApplicationFrameHostConnect.exe
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\obj\Release\ApplicationFrameHostConnect.pdb
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\bin\Release\ApplicationFrameHostConnect.exe
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\bin\Release\ApplicationFrameHostConnect.pdb
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ApplicationFrameHostConnect\obj\Release\ApplicationFrameHostConnect.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\_Tài Liệu\Code\C#\Console Application\BAD\BAD\obj\Debug\BAD.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\Console Application\BAD\BAD\bin\Debug\BAD.exe
+D:\_Tài Liệu\Code\C#\Console Application\BAD\BAD\bin\Debug\BAD.pdb
+D:\_Tài Liệu\Code\C#\Console Application\BAD\BAD\obj\Debug\BAD.exe
+D:\_Tài Liệu\Code\C#\Console Application\BAD\BAD\obj\Debug\BAD.pdb

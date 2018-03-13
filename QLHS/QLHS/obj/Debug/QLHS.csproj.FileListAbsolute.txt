@@ -1,0 +1,9 @@
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\bin\Debug\QLHS.exe.config
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\bin\Debug\QLHS.exe
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\bin\Debug\QLHS.pdb
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\obj\Debug\QLHS.csprojResolveAssemblyReference.cache
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\obj\Debug\QLHS.Properties.Resources.resources
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\obj\Debug\QLHS.csproj.GenerateResource.Cache
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\obj\Debug\QLHS.exe
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\obj\Debug\QLHS.pdb
+c:\users\phucnd\documents\visual studio 2013\Projects\QLHS\QLHS\obj\Debug\QLHS.Form1.resources

@@ -1,0 +1,18 @@
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\bin\Debug\BaoLoi.exe
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\bin\Debug\BaoLoi.pdb
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.Properties.Resources.resources
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.csproj.GenerateResource.Cache
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.exe
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.pdb
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.frmMain.resources
+D:\_Tài Liệu\Code\C#\BaoLoi\BaoLoi\bin\Debug\BaoLoi.exe.config
+D:\_Document\Code\C#\BaoLoi\BaoLoi\bin\Debug\BaoLoi.exe.config
+D:\_Document\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.exe
+D:\_Document\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.pdb
+D:\_Document\Code\C#\BaoLoi\BaoLoi\bin\Debug\BaoLoi.exe
+D:\_Document\Code\C#\BaoLoi\BaoLoi\bin\Debug\BaoLoi.pdb
+D:\_Document\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.csprojResolveAssemblyReference.cache
+D:\_Document\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.frmMain.resources
+D:\_Document\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.Properties.Resources.resources
+D:\_Document\Code\C#\BaoLoi\BaoLoi\obj\Debug\BaoLoi.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\bin\Debug\ReadDataEX.exe.config
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.Form1.resources
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.Properties.Resources.resources
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.csproj.GenerateResource.Cache
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\bin\Debug\ReadDataEX.exe
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\bin\Debug\ReadDataEX.pdb
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.exe
+c:\users\sunfl\documents\visual studio 2015\Projects\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.pdb
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\ReadDataEX\ReadDataEX\bin\Debug\EPPlus.dll
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\ReadDataEX\ReadDataEX\bin\Debug\EPPlus.xml
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.csproj.ResolveComReference.cache
+C:\Users\sunfl\Documents\Visual Studio 2015\Projects\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.csproj.ResolveComReference.cache
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.Form1.resources
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.Properties.Resources.resources
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.exe
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\obj\Debug\ReadDataEX.pdb
+D:\_Document\_Code\C#\ReadDataEX\ReadDataEX\bin\Debug\ReadDataEX.exe.config

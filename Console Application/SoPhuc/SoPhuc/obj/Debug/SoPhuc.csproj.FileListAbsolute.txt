@@ -1,0 +1,6 @@
+D:\_Document\Code\C#\Console Application\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe.config
+D:\_Document\Code\C#\Console Application\SoPhuc\SoPhuc\bin\Debug\SoPhuc.exe
+D:\_Document\Code\C#\Console Application\SoPhuc\SoPhuc\bin\Debug\SoPhuc.pdb
+D:\_Document\Code\C#\Console Application\SoPhuc\SoPhuc\obj\Debug\SoPhuc.csprojResolveAssemblyReference.cache
+D:\_Document\Code\C#\Console Application\SoPhuc\SoPhuc\obj\Debug\SoPhuc.exe
+D:\_Document\Code\C#\Console Application\SoPhuc\SoPhuc\obj\Debug\SoPhuc.pdb

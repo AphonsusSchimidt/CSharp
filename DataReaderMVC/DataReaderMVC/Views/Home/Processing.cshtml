@@ -1,0 +1,50 @@
+﻿@using DataReaderMVC.Controllers
+@using DataReaderMVC.Models
+
+@{
+    List<HS> listHs = (List<HS>)ViewData["listData"];
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Data Result </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>FullName</th>
+                    <th>Place</th>
+                    <th>Result</th>
+                    <th>Score</th>
+                    <th>Level</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @{
+                    foreach (HS hs in listHs)
+                    {
+                        <tr>
+                            <td>@hs.name</td>
+                            <td>@hs.Place</td>
+                            <td>@hs.Result</td>
+                            <td>@hs.Score</td>
+                            <td>@hs.Level</td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

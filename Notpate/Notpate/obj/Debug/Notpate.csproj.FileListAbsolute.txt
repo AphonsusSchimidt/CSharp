@@ -1,0 +1,9 @@
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\bin\Debug\Notpate.exe.config
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\bin\Debug\Notpate.exe
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\bin\Debug\Notpate.pdb
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\obj\Debug\Notpate.csprojResolveAssemblyReference.cache
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\obj\Debug\Notpate.frmMain.resources
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\obj\Debug\Notpate.Properties.Resources.resources
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\obj\Debug\Notpate.csproj.GenerateResource.Cache
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\obj\Debug\Notpate.exe
+c:\users\phucnd\documents\visual studio 2013\Projects\Notpate\Notpate\obj\Debug\Notpate.pdb

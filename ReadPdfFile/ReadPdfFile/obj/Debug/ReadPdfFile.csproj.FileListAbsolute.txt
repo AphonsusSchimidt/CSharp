@@ -1,0 +1,12 @@
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\bin\Debug\ReadPdfFile.exe.config
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\obj\Debug\ReadPdfFile.csprojResolveAssemblyReference.cache
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\obj\Debug\ReadPdfFile.frmMain.resources
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\obj\Debug\ReadPdfFile.Properties.Resources.resources
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\obj\Debug\ReadPdfFile.csproj.GenerateResource.Cache
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\bin\Debug\ReadPdfFile.exe
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\bin\Debug\ReadPdfFile.pdb
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\bin\Debug\itextsharp.dll
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\bin\Debug\itextsharp.pdfa.dll
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\bin\Debug\itextsharp.xml
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\obj\Debug\ReadPdfFile.exe
+C:\Users\sunfl\Desktop\Mang-may-tinh\ReadPdfFile\ReadPdfFile\obj\Debug\ReadPdfFile.pdb

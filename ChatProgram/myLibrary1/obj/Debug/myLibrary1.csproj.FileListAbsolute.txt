@@ -1,0 +1,10 @@
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\myLibrary1\bin\Debug\myLibrary1.dll
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\myLibrary1\bin\Debug\myLibrary1.pdb
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\myLibrary1\obj\Debug\myLibrary1.csprojResolveAssemblyReference.cache
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\myLibrary1\obj\Debug\myLibrary1.dll
+c:\users\phucbinz\documents\visual studio 2017\Projects\ChatProgram\myLibrary1\obj\Debug\myLibrary1.pdb
+D:\_Document\_Code\C#\ChatProgram\myLibrary1\bin\Debug\myLibrary1.dll
+D:\_Document\_Code\C#\ChatProgram\myLibrary1\bin\Debug\myLibrary1.pdb
+D:\_Document\_Code\C#\ChatProgram\myLibrary1\obj\Debug\myLibrary1.dll
+D:\_Document\_Code\C#\ChatProgram\myLibrary1\obj\Debug\myLibrary1.pdb
+D:\_Document\_Code\C#\ChatProgram\myLibrary1\obj\Debug\myLibrary1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\bin\Debug\MayTinh.exe.config
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\bin\Debug\MayTinh.exe
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\bin\Debug\MayTinh.pdb
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\obj\Debug\MayTinh.Form1.resources
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.Cache
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\obj\Debug\MayTinh.exe
+c:\users\phucnd\documents\visual studio 2013\Projects\MayTinh\MayTinh\obj\Debug\MayTinh.pdb

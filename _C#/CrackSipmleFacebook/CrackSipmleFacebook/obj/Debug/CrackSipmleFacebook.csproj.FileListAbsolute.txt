@@ -1,0 +1,9 @@
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\bin\Debug\CrackSipmleFacebook.exe.config
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\bin\Debug\CrackSipmleFacebook.exe
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\bin\Debug\CrackSipmleFacebook.pdb
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\obj\Debug\CrackSipmleFacebook.csprojResolveAssemblyReference.cache
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\obj\Debug\CrackSipmleFacebook.frmMain.resources
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\obj\Debug\CrackSipmleFacebook.Properties.Resources.resources
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\obj\Debug\CrackSipmleFacebook.csproj.GenerateResource.Cache
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\obj\Debug\CrackSipmleFacebook.exe
+D:\_Document\_Code\C#\_C#\CrackSipmleFacebook\CrackSipmleFacebook\obj\Debug\CrackSipmleFacebook.pdb

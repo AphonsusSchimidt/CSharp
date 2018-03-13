@@ -1,0 +1,4 @@
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ClassLibrary1\bin\Release\ClassLibrary1.dll
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ClassLibrary1\obj\Release\ClassLibrary1.dll
+D:\_Document\Code\C#\ApplicationFrameHostConnect\ClassLibrary1\obj\Release\ClassLibrary1.pdb

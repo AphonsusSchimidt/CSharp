@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\FbTools\FbTools\obj\x86\Debug\FbTools.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FbTools\FbTools\obj\x86\Debug\FbTools.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\FbTools\FbTools\obj\x86\Debug\FbTools.frmLogin2.resources
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\FbMessengerQuery.exe.config
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\FbMessengerQuery.exe
+C:\Users\Admin\Desktop\FbTools\FbTools\bin\Debug\FbMessengerQuery.pdb
+C:\Users\Admin\Desktop\FbTools\FbTools\obj\x86\Debug\FbMessengerQuery.Properties.Resources.resources
+C:\Users\Admin\Desktop\FbTools\FbTools\obj\x86\Debug\FbMessengerQuery.exe.licenses
+C:\Users\Admin\Desktop\FbTools\FbTools\obj\x86\Debug\FbMessengerQuery.exe
+C:\Users\Admin\Desktop\FbTools\FbTools\obj\x86\Debug\FbMessengerQuery.pdb
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\bin\Debug\FbMessengerQuery.exe.config
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\obj\x86\Debug\FbMessengerQuery.exe
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\obj\x86\Debug\FbMessengerQuery.pdb
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\bin\Debug\FbMessengerQuery.exe
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\bin\Debug\FbMessengerQuery.pdb
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\obj\x86\Debug\FbTools.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\obj\x86\Debug\FbTools.frmLogin2.resources
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\obj\x86\Debug\FbMessengerQuery.Properties.Resources.resources
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\obj\x86\Debug\FbTools.csproj.GenerateResource.Cache
+D:\_Tài Liệu\Code\C#\FbMessengerQuery_Source\FbTools\obj\x86\Debug\FbMessengerQuery.exe.licenses

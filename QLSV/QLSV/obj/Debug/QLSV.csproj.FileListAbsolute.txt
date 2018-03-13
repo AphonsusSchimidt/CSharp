@@ -1,0 +1,12 @@
+D:\Tài Liệu\code\Visual Studio 2013\Projects\C#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Tài Liệu\code\Visual Studio 2013\Projects\C#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Tài Liệu\code\Visual Studio 2013\Projects\C#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Tài Liệu\code\Visual Studio 2013\Projects\C#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Tài Liệu\code\Visual Studio 2013\Projects\C#\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Tài Liệu\code\Visual Studio 2013\Projects\C#\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\_Tài Liệu\Code\C#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\_Tài Liệu\Code\C#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\_Tài Liệu\Code\C#\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\_Tài Liệu\Code\C#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\_Tài Liệu\Code\C#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\_Tài Liệu\Code\C#\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
